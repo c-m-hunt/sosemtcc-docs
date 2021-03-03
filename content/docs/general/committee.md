@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "General"
+    parent: "general"
 weight: 110
 toc: true
 ---

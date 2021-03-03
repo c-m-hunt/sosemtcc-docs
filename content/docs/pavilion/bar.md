@@ -1,14 +1,14 @@
 ---
 title: "Bar"
 description: ""
-lead: ""
+lead: "Information about our bar"
 date: 2021-03-03T18:02:29Z
 lastmod: 2021-03-03T18:02:29Z
 draft: false
 images: []
 menu: 
   docs:
-    parent: "Pavilion"
+    parent: "pavilion"
 weight: 201
 toc: true
 ---

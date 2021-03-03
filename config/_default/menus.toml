@@ -1,8 +1,27 @@
-# [[docs]]
-#   name = "Help"
-#   weight = 60
-#   identifier = "help"
-#   url = "/docs/help/"
+[[docs]]
+  name = "General"
+  weight = 100
+  identifier = "general"
+
+[[docs]]
+  name = "Pavilion"
+  weight = 150
+  identifier = "pavilion"
+
+[[docs]]
+  name = "Cricket"
+  weight = 200
+  identifier = "cricket"
+
+[[docs]]
+  name = "Youth"
+  weight = 250
+  identifier = "youth"
+
+[[docs]]
+  name = "Other"
+  weight = 300
+  identifier = "other"
 
 
 

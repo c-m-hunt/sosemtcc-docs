@@ -1,15 +1,15 @@
 ---
 title: "100 Club"
-description: ""
-lead: ""
+description: "Our monthly draw"
+lead: "Our monthly draw"
 date: 2021-03-03T17:57:16Z
 lastmod: 2021-03-03T17:57:16Z
 draft: false
 images: []
 menu: 
   docs:
-    parent: "Other"
-weight: 999
+    parent: "other"
+weight: 610
 toc: true
 ---
 

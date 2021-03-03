@@ -8,7 +8,7 @@ draft: false
 images: []
 menu: 
   docs:
-    parent: "Cricket"
+    parent: "cricket"
 weight: 310
 toc: true
 ---
