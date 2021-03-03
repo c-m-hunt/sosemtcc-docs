@@ -5,9 +5,10 @@
 #   url = "/docs/help/"
 
 
+
 [[main]]
   name = "Docs"
-  url = "/docs/members/"
+  url = "/docs/general/welcome"
   weight = 10
 
 # [[main]]
