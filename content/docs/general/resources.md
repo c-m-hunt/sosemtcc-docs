@@ -18,6 +18,10 @@ toc: true
 We use MyClubouse for our membership and event management systems.
 [https://sosemt.myclubhouse.co.uk/](https://sosemt.myclubhouse.co.uk/)
 
+### Documentation
+These documents are stored on Github. Please fork and raise a PR to make amends.
+[https://github.com/c-m-hunt/sosemtcc-docs](https://github.com/c-m-hunt/sosemtcc-docs)
+
 ## Social media
 ### Twitter
 [https://twitter.com/sosemtcc](https://twitter.com/sosemtcc)

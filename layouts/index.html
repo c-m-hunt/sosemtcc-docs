@@ -2,7 +2,7 @@
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-4 col-xl-4 text-center">
-      <img src="images/badge.jpg" width="200px" />
+      <img src="images/badge.jpg" class="img-simple img-fluid lazyload blur-up" />
     </div>
   </div>
   <div class="row justify-content-center">
@@ -11,7 +11,6 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-
       <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ `docs/general/welcome/` | absURL }}" role="button">Go to
         docs</a>
     </div>
